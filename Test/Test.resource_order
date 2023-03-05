@@ -16,7 +16,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_Splat","order":5,"path":"sprites/spr_Splat/spr_Splat.yy",},
     {"name":"spr_Player","order":1,"path":"sprites/spr_Player/spr_Player.yy",},
+    {"name":"obj_Splat","order":4,"path":"objects/obj_Splat/obj_Splat.yy",},
+    {"name":"obj_UrMom","order":2,"path":"objects/obj_UrMom/obj_UrMom.yy",},
+    {"name":"spr_UrMom","order":3,"path":"sprites/spr_UrMom/spr_UrMom.yy",},
     {"name":"DildoScript","order":1,"path":"scripts/DildoScript/DildoScript.yy",},
   ],
 }
