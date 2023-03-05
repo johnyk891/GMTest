@@ -16,14 +16,18 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"spr_Splat","order":1,"path":"sprites/spr_Splat/spr_Splat.yy",},
+<<<<<<< Updated upstream
+    {"name":"spr_Splat","order":5,"path":"sprites/spr_Splat/spr_Splat.yy",},
+=======
     {"name":"obj_Player2","order":2,"path":"objects/obj_Player2/obj_Player2.yy",},
-    {"name":"spr_Wall","order":4,"path":"sprites/spr_Wall/spr_Wall.yy",},
+    {"name":"Sprite3","order":16,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"obj_Wall","order":3,"path":"objects/obj_Wall/obj_Wall.yy",},
-    {"name":"spr_Player2","order":3,"path":"sprites/spr_Player2/spr_Player2.yy",},
+    {"name":"Sprite2","order":15,"path":"sprites/Sprite2/Sprite2.yy",},
+>>>>>>> Stashed changes
+    {"name":"spr_Player","order":1,"path":"sprites/spr_Player/spr_Player.yy",},
     {"name":"obj_Splat","order":4,"path":"objects/obj_Splat/obj_Splat.yy",},
     {"name":"obj_UrMom","order":2,"path":"objects/obj_UrMom/obj_UrMom.yy",},
-    {"name":"spr_UrMom","order":2,"path":"sprites/spr_UrMom/spr_UrMom.yy",},
+    {"name":"spr_UrMom","order":3,"path":"sprites/spr_UrMom/spr_UrMom.yy",},
     {"name":"DildoScript","order":1,"path":"scripts/DildoScript/DildoScript.yy",},
   ],
 }
